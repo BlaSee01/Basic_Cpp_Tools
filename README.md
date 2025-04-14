@@ -9,6 +9,8 @@
 Przykład (Linux/macOS):
 ```bash
 g++ Kalkulatory/Basic/kalkulator.cpp -o kalk
+```
+```bash
 ./kalk
 ```
 
