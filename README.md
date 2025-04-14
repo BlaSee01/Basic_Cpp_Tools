@@ -12,8 +12,8 @@ g++ Kalkulatory/Basic/kalkulator.cpp -o kalk
 ./kalk
 ```
 
-📌 Cel projektu
+## 📌 Cel projektu
 Projekt powstał w trakcie nauki C++, jako baza do ćwiczeń z algorytmów, struktur danych i programowania proceduralnego.
 
-✍️ Autor
+## ✍️ Autor
 github.com/BlaSee01
