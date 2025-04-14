@@ -10,3 +10,9 @@ Przykład (Linux/macOS):
 ```bash
 g++ Kalkulatory/Basic/kalkulator.cpp -o kalk
 ./kalk
+
+📌 Cel projektu
+Projekt powstał w trakcie nauki C++, jako baza do ćwiczeń z algorytmów, struktur danych i programowania proceduralnego.
+
+✍️ Autor
+github.com/BlaSee01
