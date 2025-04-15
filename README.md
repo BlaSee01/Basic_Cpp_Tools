@@ -1,6 +1,6 @@
 # Basic Tools in C++
 
-## 🧰 Zestaw prostych narzędzi i ćwiczeń w języku C++, stworzonych w celach edukacyjnych. Repozytorium łączy dwa obszary:
+Zestaw prostych narzędzi i ćwiczeń w języku C++, stworzonych w celach edukacyjnych. Repozytorium łączy dwa obszary:
 - **Kalkulatory** – operacje matematyczne o różnym poziomie trudności
 - **Algorytmy i Struktury Danych** – klasyczne algorytmy (sortowania, wyszukiwania), struktury (listy, stosy itp.)
 
